@@ -9,7 +9,7 @@ Only Basic MCP9808 rutines Init and read out temp
 
 
 Pls Subscribe to my Youtube Channel
-PR TechTalk	https://www.youtube.com/channel/UCMCJmZhlhf3JX-YsYU5GbWA
+PR TechTalk	https://youtu.be/D2lL7sIPB3U
 
 
 
