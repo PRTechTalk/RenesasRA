@@ -2,7 +2,8 @@
  * MCP9808.h
  *
  *  Created on: 9 mars 2021
- *      Author: ranem
+ *      Author: Peter Ranemyr
+ *	PR TechTalk
  */
 
 #ifndef MCP9808_H_

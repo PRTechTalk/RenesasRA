@@ -2,7 +2,8 @@
  * MCP9808.c
  *  *
  *  Created on: 9 mars 2021
- *      Author: ranem
+ *      Author: Peter Ranemyr
+ *      PR TechTalk
  */
 #include "hal_data.h"
 #include  "MCP9808.h"

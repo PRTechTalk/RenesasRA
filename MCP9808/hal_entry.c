@@ -1,3 +1,9 @@
+/*
+ *  Created on: 9 mars 2021
+ *      Author: Peter Ranemyr
+ *	PR TechTalk
+ */
+
 #include "hal_data.h"
 #include "SEGGER_RTT/SEGGER_RTT.h"
 #include "MCP9808.h"
